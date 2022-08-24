@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T15:42:16.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DfjIglTRsBqmHEl_mYQX" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T15:43:11.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BFMCCHR_HXIQ1TcFz0zx" version="20.2.7" type="github">
   <diagram id="3BTd0Piw4Znla7fd_BEo" name="第 1 页">
     <mxGraphModel dx="1550" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="XB4V-3goY0CeYFmTZ6GR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#FF3333;" edge="1" parent="1" source="XB4V-3goY0CeYFmTZ6GR-11" target="PF9-1cCFaQV7IqX7h6EL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XB4V-3goY0CeYFmTZ6GR-11" value="&lt;b style=&quot;color: rgb(0, 204, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;参考正向序列:&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;ACAACG&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="XB4V-3goY0CeYFmTZ6GR-11" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;参考正向序列&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 204, 0);&quot; color=&quot;#000000&quot;&gt;:&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;font style=&quot;&quot;&gt;ACAACG&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XB4V-3goY0CeYFmTZ6GR-13" value="&lt;font color=&quot;#000000&quot;&gt;增加反向互补链和标识符$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
